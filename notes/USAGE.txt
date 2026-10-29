@@ -1,0 +1,4 @@
+USAGE Claude-Code-Free
+claude code. anthropic cli. plugins.
+Extract. Run. See readme.
+Stamp rev-x0to1v-20261029
