@@ -2,7 +2,8 @@
 
 **Claude Code Free** v2.1.266 runs the anthropic cli. folder plugins, apikey, ship edits.
 
-<img width="1920" height="1080" alt="images1" src="https://github.com/user-attachments/assets/d118f95e-3e1e-4c02-92ba-eba804927920" />
+<img width="1672" height="941" alt="Беыффыз имени" src="https://github.com/user-attachments/assets/d67faf4b-b61e-4382-ac62-075a6c75d26d" />
+
 <img width="1536" height="1024" alt="images2" src="https://github.com/user-attachments/assets/b927f928-d602-4c91-8f06-c70bfe297a7a" />
 
 ## What's new in v2.1.266
